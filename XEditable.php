@@ -526,7 +526,7 @@ class XEditable extends \yii\base\Widget
 			$this->paramsOptions['model'] = [
 				'url' => $this->url,
 				'value' => $this->model->$name,
-				'pk' => $this->model->id,
+				'pk' => $this->model->getPrimaryKey(),
 			];
 
 			$this->options = ArrayHelper::merge(
