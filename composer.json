@@ -1,0 +1,26 @@
+{
+    "name": "kotchuprik/yii2-x-editable",
+    "description": "X-editable extensions for Yii 2. Fork marciocamello/yii2-x-editable with some features.",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "x-editable"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Constantin Chuprik",
+            "email": "constantinchuprik@gmail.com"
+        },
+        {
+            "name": "MarcioCamello",
+            "email": "marciocamello@outlook.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kotchuprik\\xeditable\\": ""
+        }
+    }
+}
