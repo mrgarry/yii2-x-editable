@@ -1,10 +1,14 @@
 {
-    "name": "kotchuprik/yii2-x-editable",
-    "description": "X-editable extensions for Yii 2. Fork marciocamello/yii2-x-editable with some features.",
+    "name": "mrgarry/yii2-x-editable",
+    "description": "X-editable extensions for Yii 2. Fork kochuprik/yii2-x-editable (fixed custom primary key bug)",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "x-editable"],
     "license": "BSD-3-Clause",
     "authors": [
+        {
+            "name": "mrgarry",
+            "email": "mrgarry@mrgarry.com"
+        },
         {
             "name": "Constantin Chuprik",
             "email": "constantinchuprik@gmail.com"
