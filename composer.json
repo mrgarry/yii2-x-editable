@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kotchuprik\\xeditable\\": ""
+            "mrgarry\\xeditable\\": ""
         }
     }
 }

@@ -9,7 +9,7 @@
  * @version 1.5.1
  */
 
-namespace kotchuprik\xeditable;
+namespace mrgarry\xeditable;
 
 class XEditableComboDate extends XEditable
 {

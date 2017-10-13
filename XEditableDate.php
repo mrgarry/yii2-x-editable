@@ -9,7 +9,7 @@
  * @version 1.5.1
  */
 
-namespace kotchuprik\xeditable;
+namespace mrgarry\xeditable;
 
 use yii\helpers\Html;
 

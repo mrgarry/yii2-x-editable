@@ -4,7 +4,7 @@
  * @inheritdoc
  */
 
-namespace kotchuprik\xeditable;
+namespace mrgarry\xeditable;
 
 use yii\base\Action;
 use yii\db\ActiveRecord;

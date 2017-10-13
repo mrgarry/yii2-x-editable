@@ -9,7 +9,7 @@
  * @version 1.5.1
  */
 
-namespace kotchuprik\xeditable;
+namespace mrgarry\xeditable;
 
 use backend\modules\cms\models\Content;
 use yii\bootstrap\BootstrapAsset;

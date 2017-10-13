@@ -1,4 +1,4 @@
-kotchuprik X-Editable
+mrgarry X-Editable
 =====================
 X-editable extensions for Yii 2, based in X-editable 1.5.1 with Bootstrap 3
 Link from project - http://vitalets.github.io/x-editable/
@@ -11,13 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require kotchuprik/yii2-x-editable "dev-master"
+php composer.phar require mrgarry/yii2-x-editable "dev-master"
 ```
 
 or add
 
 ```
-"kotchuprik/yii2-x-editable": "*"
+"mrgarry/yii2-x-editable": "*"
 ```
 
 to the require section of your `composer.json` file.

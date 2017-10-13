@@ -9,7 +9,7 @@
  * @version 1.5.1
  */
 
-namespace kotchuprik\xeditable;
+namespace mrgarry\xeditable;
 
 class XEditableSelect extends XEditable
 {
@@ -92,7 +92,7 @@ class XEditableSelect extends XEditable
 
     /**
      * ```
-     * <?= $form->field($model, 'status')->widget(\kotchuprik\xeditable\XEditableSelect::className(),[
+     * <?= $form->field($model, 'status')->widget(\mrgarry\xeditable\XEditableSelect::className(),[
      * 'model' => $model,
      * 'placement' => 'right',
      * 'pluginOptions' => [
